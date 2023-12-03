@@ -51,8 +51,13 @@ Dashboard
 # Tampilan Logout
 ![alt text](https://github.com/sintadwinugrahani/SistemInformasiAkuntansi-ESR-Form-Faktur/blob/main/screenshots/Logout.png?raw=true)
 # Flowchart Aplikasi
+1. Flowchart Login
 ![alt text](https://github.com/sintadwinugrahani/SistemInformasiAkuntansi-ESR-Form-Faktur/blob/main/screenshots/Flowchart%20login.png?raw=true)
+2. Flowchart Menu Utama Admin
 ![alt text](https://github.com/sintadwinugrahani/SistemInformasiAkuntansi-ESR-Form-Faktur/blob/main/screenshots/Flowchart%20Admin.png?raw=true)
+3. Flowchart Menu Utama User
 ![alt text](https://github.com/sintadwinugrahani/SistemInformasiAkuntansi-ESR-Form-Faktur/blob/main/screenshots/Flowchart%20user.png?raw=true)
+4. Flowchart Menu Utama Supervisor
 ![alt text](https://github.com/sintadwinugrahani/SistemInformasiAkuntansi-ESR-Form-Faktur/blob/main/screenshots/Flowchart%20supervisor.png?raw=true)
+5. Flowchart Logout
 ![alt text](https://github.com/sintadwinugrahani/SistemInformasiAkuntansi-ESR-Form-Faktur/blob/main/screenshots/Flowchart%20Logout.png?raw=true)
