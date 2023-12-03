@@ -21,7 +21,7 @@ Tampilan Menu Dashboard
 ![alt text](https://github.com/sintadwinugrahani/SistemInformasiAkuntansi-ESR-Form-Faktur/blob/main/screenshots/dashboard%20admin%201.png?raw=true)
 Tampilan Menu Profil
 ![alt text](https://github.com/sintadwinugrahani/SistemInformasiAkuntansi-ESR-Form-Faktur/blob/main/screenshots/profile.png?raw=true)
-tampilan Menu Transaksi Permintaan Pembayaran
+Tampilan Menu Transaksi Permintaan Pembayaran
 ![alt text](https://github.com/sintadwinugrahani/SistemInformasiAkuntansi-ESR-Form-Faktur/blob/main/screenshots/Payment%20request.png?raw=true)
 Tampilan Menu Transaksi Nota Debit
 ![alt text](https://github.com/sintadwinugrahani/SistemInformasiAkuntansi-ESR-Form-Faktur/blob/main/screenshots/Debit%20note%201.png?raw=true)
@@ -60,28 +60,33 @@ Alur masuk ke aplikasi sebagai berikut:
 2. Masukkan email dan password
 3. Periksa email dan password, jika email/password salah maka harus input ulang, jika email/password benar, maka akan masuk ke aplikasi di halaman dashboard
 4. Selesai
+   
 ![alt text](https://github.com/sintadwinugrahani/SistemInformasiAkuntansi-ESR-Form-Faktur/blob/main/screenshots/Flowchart%20login.png?raw=true)
 # Flowchart Menu Utama Admin
 Alur flowchart menu utama admin sebagai berikut:
 1. Admin login terlebih dahulu menggunakan akun admin
 2. Ketika berhasil masuk ke aplikasi, pilih menu dashboard, permintaan pembayaran, nota debit, divisi, pajak, penjual, akun pengguna, laporan, atau profil
-3. Selesai 
+3. Selesai
+    
 ![alt text](https://github.com/sintadwinugrahani/SistemInformasiAkuntansi-ESR-Form-Faktur/blob/main/screenshots/Flowchart%20Admin.png?raw=true)
 # Flowchart Menu Utama User
 Alur flowchart menu utama user sebagai berikut:
 1. User login terlebih dahulu menggunakan akun user
 2. Ketika berhasil masuk ke aplikasi, pilih menu dashboard, permintaan pembayaran, nota debit, laporan atau profil
 3. Selesai
+   
 ![alt text](https://github.com/sintadwinugrahani/SistemInformasiAkuntansi-ESR-Form-Faktur/blob/main/screenshots/Flowchart%20user.png?raw=true)
 # Flowchart Menu Utama Supervisor
 Alur Flowchart menu utama sebagai berikut:
 1. Supervisor login terlebih dahulu menggunakan supervisor
 2. Ketika berhasil masuk ke aplikasi, pilih menu dashboard, permintaam pembayaran, nota debit, atau profil
 3. Selesai
+   
 ![alt text](https://github.com/sintadwinugrahani/SistemInformasiAkuntansi-ESR-Form-Faktur/blob/main/screenshots/Flowchart%20supervisor.png?raw=true)
 # Flowchart Logout
 Alur flowchart logout/keluar sebagai berikut:
 1. Untuk keluar aplikasi, klik logout di bagian profil
 2. Muncul tampilan opsi logout, jika tidak akan tetap berada di aplikasi, jika ya akan keluar dari aplikasi dan muncul halaman login
-3. Selesai 
+3. Selesai
+   
 ![alt text](https://github.com/sintadwinugrahani/SistemInformasiAkuntansi-ESR-Form-Faktur/blob/main/screenshots/Flowchart%20Logout.png?raw=true)
