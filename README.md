@@ -11,3 +11,24 @@ Aplikasi ini dibuat menggunakan aplikasi dari https://github.com/alfiansetia/lar
 7. Laporan, untuk transaksi permintaan pembayaran dan nota debit
 # Database Aplikasi
 ![alt text](https://github.com/sintadwinugrahani/SistemInformasiAkuntansi-ESR-Form-Faktur/blob/main/screenshots/Database.png?raw=true)
+# Relasi Database Aplikasi
+![alt text](https://github.com/sintadwinugrahani/SistemInformasiAkuntansi-ESR-Form-Faktur/blob/main/Database/relasi%20database%201.png?raw=true)
+![alt text](https://github.com/sintadwinugrahani/SistemInformasiAkuntansi-ESR-Form-Faktur/blob/main/Database/relasi%20database%202.png?raw=true)
+# Screenshots Tampilan Aplikasi
+Tampilan Admin
+![alt text](https://github.com/sintadwinugrahani/SistemInformasiAkuntansi-ESR-Form-Faktur/blob/main/screenshots/Login%20admin.png?raw=true)
+![alt text](https://github.com/sintadwinugrahani/SistemInformasiAkuntansi-ESR-Form-Faktur/blob/main/screenshots/dashboard%20admin%201.png?raw=true)
+![alt text](https://github.com/sintadwinugrahani/SistemInformasiAkuntansi-ESR-Form-Faktur/blob/main/screenshots/profile.png?raw=true)
+![alt text](https://github.com/sintadwinugrahani/SistemInformasiAkuntansi-ESR-Form-Faktur/blob/main/screenshots/Payment%20request.png?raw=true)
+![alt text](https://github.com/sintadwinugrahani/SistemInformasiAkuntansi-ESR-Form-Faktur/blob/main/screenshots/Debit%20note%201.png?raw=true)
+![alt text](?raw=true)
+![alt text](?raw=true)
+![alt text](?raw=true)
+![alt text](?raw=true)
+![alt text](?raw=true)
+![alt text](?raw=true)
+![alt text](?raw=true)
+![alt text](?raw=true)
+![alt text](?raw=true)
+Tampilan Supervisor
+Tampilan
