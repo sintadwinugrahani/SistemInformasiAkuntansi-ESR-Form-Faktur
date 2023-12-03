@@ -14,21 +14,45 @@ Aplikasi ini dibuat menggunakan aplikasi dari https://github.com/alfiansetia/lar
 # Relasi Database Aplikasi
 ![alt text](https://github.com/sintadwinugrahani/SistemInformasiAkuntansi-ESR-Form-Faktur/blob/main/Database/relasi%20database%201.png?raw=true)
 ![alt text](https://github.com/sintadwinugrahani/SistemInformasiAkuntansi-ESR-Form-Faktur/blob/main/Database/relasi%20database%202.png?raw=true)
-# Screenshots Tampilan Aplikasi
-Tampilan Admin
+# Tampilan Admin
+Login
 ![alt text](https://github.com/sintadwinugrahani/SistemInformasiAkuntansi-ESR-Form-Faktur/blob/main/screenshots/Login%20admin.png?raw=true)
+Dashboard
 ![alt text](https://github.com/sintadwinugrahani/SistemInformasiAkuntansi-ESR-Form-Faktur/blob/main/screenshots/dashboard%20admin%201.png?raw=true)
+Profil
 ![alt text](https://github.com/sintadwinugrahani/SistemInformasiAkuntansi-ESR-Form-Faktur/blob/main/screenshots/profile.png?raw=true)
+Transaksi Permintaan Pembayaran
 ![alt text](https://github.com/sintadwinugrahani/SistemInformasiAkuntansi-ESR-Form-Faktur/blob/main/screenshots/Payment%20request.png?raw=true)
+Transaksi Nota Debit
 ![alt text](https://github.com/sintadwinugrahani/SistemInformasiAkuntansi-ESR-Form-Faktur/blob/main/screenshots/Debit%20note%201.png?raw=true)
-![alt text](?raw=true)
-![alt text](?raw=true)
-![alt text](?raw=true)
-![alt text](?raw=true)
-![alt text](?raw=true)
-![alt text](?raw=true)
-![alt text](?raw=true)
-![alt text](?raw=true)
-![alt text](?raw=true)
-Tampilan Supervisor
-Tampilan
+Divisi
+![alt text](https://github.com/sintadwinugrahani/SistemInformasiAkuntansi-ESR-Form-Faktur/blob/main/screenshots/divisi%20nama.png?raw=true)
+![alt text](https://github.com/sintadwinugrahani/SistemInformasiAkuntansi-ESR-Form-Faktur/blob/main/screenshots/bank.png?raw=true)
+Pajak
+![alt text](https://github.com/sintadwinugrahani/SistemInformasiAkuntansi-ESR-Form-Faktur/blob/main/screenshots/pajak%20wht.png?raw=true)
+![alt text](https://github.com/sintadwinugrahani/SistemInformasiAkuntansi-ESR-Form-Faktur/blob/main/screenshots/pajak%20ppn.png?raw=true)
+Penjual
+![alt text](https://github.com/sintadwinugrahani/SistemInformasiAkuntansi-ESR-Form-Faktur/blob/main/screenshots/penjual.png?raw=true)
+Akun Pengguna
+![alt text](https://github.com/sintadwinugrahani/SistemInformasiAkuntansi-ESR-Form-Faktur/blob/main/screenshots/akun%20pengguna.png?raw=true)
+Laporan
+![alt text](https://github.com/sintadwinugrahani/SistemInformasiAkuntansi-ESR-Form-Faktur/blob/main/screenshots/laporan%20pr.png?raw=true)
+![alt text](https://github.com/sintadwinugrahani/SistemInformasiAkuntansi-ESR-Form-Faktur/blob/main/screenshots/laporan%20dn.png?raw=true)
+# Tampilan Supervisor
+Login
+![alt text](https://github.com/sintadwinugrahani/SistemInformasiAkuntansi-ESR-Form-Faktur/blob/main/screenshots/Login%20supervisor.png?raw=true)
+Dashboard
+![alt text](https://github.com/sintadwinugrahani/SistemInformasiAkuntansi-ESR-Form-Faktur/blob/main/screenshots/Dashboard%20supervisor.png?raw=true)
+# Tampilan User
+Login
+![alt text](https://github.com/sintadwinugrahani/SistemInformasiAkuntansi-ESR-Form-Faktur/blob/main/screenshots/login%20user.png?raw=true)
+Dashboard
+![alt text](https://github.com/sintadwinugrahani/SistemInformasiAkuntansi-ESR-Form-Faktur/blob/main/screenshots/dashboard%20user.png?raw=true)
+# Tampilan Logout
+![alt text](https://github.com/sintadwinugrahani/SistemInformasiAkuntansi-ESR-Form-Faktur/blob/main/screenshots/Logout.png?raw=true)
+# Flowchart Aplikasi
+![alt text](https://github.com/sintadwinugrahani/SistemInformasiAkuntansi-ESR-Form-Faktur/blob/main/screenshots/Flowchart%20login.png?raw=true)
+![alt text](https://github.com/sintadwinugrahani/SistemInformasiAkuntansi-ESR-Form-Faktur/blob/main/screenshots/Flowchart%20Admin.png?raw=true)
+![alt text](https://github.com/sintadwinugrahani/SistemInformasiAkuntansi-ESR-Form-Faktur/blob/main/screenshots/Flowchart%20user.png?raw=true)
+![alt text](https://github.com/sintadwinugrahani/SistemInformasiAkuntansi-ESR-Form-Faktur/blob/main/screenshots/Flowchart%20supervisor.png?raw=true)
+![alt text](https://github.com/sintadwinugrahani/SistemInformasiAkuntansi-ESR-Form-Faktur/blob/main/screenshots/Flowchart%20Logout.png?raw=true)
