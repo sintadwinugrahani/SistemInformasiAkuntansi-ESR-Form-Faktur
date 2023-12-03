@@ -9,3 +9,5 @@ Aplikasi ini dibuat menggunakan aplikasi dari https://github.com/alfiansetia/lar
 5. Penjual/Vendor
 6. Akun Pengguna, terdiri dari admin, user, dan supervisor
 7. Laporan, untuk transaksi permintaan pembayaran dan nota debit
+# Database Aplikasi
+![alt text](https://github.com/sintadwinugrahani/SistemInformasiAkuntansi-ESR-Form-Faktur/blob/main/screenshots/Database.png?raw=true)
