@@ -90,3 +90,6 @@ Alur flowchart logout/keluar sebagai berikut:
 3. Selesai
    
 ![alt text](https://github.com/sintadwinugrahani/SistemInformasiAkuntansi-ESR-Form-Faktur/blob/main/screenshots/Flowchart%20Logout.png?raw=true)
+
+# Referensi
+https://github.com/alfiansetia/laravel-finance-form.git
